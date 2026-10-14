@@ -1,0 +1,19 @@
+1.	To create a new branch or reset an existing branch to the current commit, and then switch to that branch. :
+git checkout –B <Branch name>	or	git switch <Branch name>
+
+
+2. 	To create new branch :
+git branch <Branch name>
+
+
+3. To check Branch :
+git Branch
+
+
+4. To merge new branch to master/main branch
+git push origin <new branch name>
+
+
+
+5. To pull github to local VCS
+git pull origin <branch name>
